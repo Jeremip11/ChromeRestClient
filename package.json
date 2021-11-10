@@ -78,6 +78,6 @@
   "private": true,
   "dependencies": {
     "decomment": "^0.9.1",
-    "html-minifier": "^3.5.5"
+    "html-minifier": "^4.0.0"
   }
 }
